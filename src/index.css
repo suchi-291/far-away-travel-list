@@ -74,6 +74,7 @@ input {
   background-color: #5a3e2b;
   color: #ffebb3;
   padding: 4rem 0;
+  padding-bottom: 250px;
   height: 68vh;
   display: flex;
   justify-content: space-between;
@@ -130,7 +131,7 @@ input[type="checkbox"] {
   text-align: center;
   font-weight: 700;
   padding: 3.2rem 0;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
